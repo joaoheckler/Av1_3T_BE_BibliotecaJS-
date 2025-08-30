@@ -32,9 +32,4 @@ Este repositório contém um sistema de gerenciamento de livros desenvolvido com
 - **CSS**: Estilos básicos para a interface.
 - **JavaScript**: Lógica para manipulação dos livros, armazenamento e funcionalidades interativas.
 
-## Como Usar
 
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/Av1_3T_BE_BibliotecaJS.git
